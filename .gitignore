@@ -14,3 +14,9 @@ testes/libs/all
 temp
 lua
 MODULE.bazel.lock
+
+bin
+bin-int
+
+*.make
+*vcxproj
